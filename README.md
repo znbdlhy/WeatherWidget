@@ -2,7 +2,7 @@
 
 *The weather widget in ios 16, build by weightkit and Swift through Xcode.It comes with three different sizes, so users can choose one to fit in their screen.
 
-[Software Demo Video](https://www.youtube.com/watch?v=FT1uIOmYYX4)
+[Software Demo Video](https://youtu.be/QrK5FNPYWek)
 
 # Development Environment
 
